@@ -61,7 +61,7 @@
 	"minerva-talk-full-page": "Read as wiki page",
 	"minerva-talk-topic-feedback": "New topic added to talk page!",
 	"minerva-talk-reply-success": "Your reply was saved to the talk page.",
-	"skinname-minerva": "MinervaNeue",
+	"skinname-minerva": "MinervaDark",
 	"minerva-skin-desc": "A responsive mobile first skin",
 	"skin-minerva-issue-learn-more": "Learn more",
 	"skin-minerva-mobile-option-MinervaShowCategoriesButton": "Categories",
@@ -69,6 +69,6 @@
 	"skin-minerva-mobile-option-MinervaPageIssuesNewTreatment": "Improved page issues treatment",
 	"skin-minerva-mobile-option-MinervaPageIssuesNewTreatment-description": "Page issues (Template:ambox) will be inlined in the article.",
 	"skin-minerva-recentchanges-warning-enhanced-not-supported": "Unfortunately, grouping results by page is not available on mobile. If you would like to use the group by page feature please visit the desktop site.",
-	"minerva.css": "/* All CSS here will be loaded for users of the MinervaNeue skin */",
-	"minerva.js": "/* All JavaScript here will be loaded for users of the MinervaNeue skin */"
+	"minerva.css": "/* All CSS here will be loaded for users of the MinervaDark skin */",
+	"minerva.js": "/* All JavaScript here will be loaded for users of the MinervaDark skin */"
 }

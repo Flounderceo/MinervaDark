@@ -1,5 +1,5 @@
 {
-	"name": "MinervaNeue",
+	"name": "MinervaDark",
 	"namemsg": "skinname-minerva",
 	"descriptionmsg": "minerva-skin-desc",
 	"author": [
@@ -19,7 +19,7 @@
 		"Volker E."
 	],
 	"type": "skin",
-	"url": "https://www.mediawiki.org/wiki/Skin:MinervaNeue",
+	"url": "https://www.mediawiki.org/wiki/Skin:MinervaDark",
 	"license-name": "GPL-2.0-or-later",
 	"requires": {
 		"MediaWiki": ">= 1.35.0"
@@ -105,7 +105,7 @@
 		}
 	},
 	"ValidSkinNames": {
-		"minerva": "MinervaNeue"
+		"minerva": "MinervaDark"
 	},
 	"AutoloadNamespaces": {
 		"MediaWiki\\Minerva\\": "includes/"
@@ -115,7 +115,7 @@
 		"MinervaHooks": "includes/MinervaHooks.php",
 		"MinervaTemplate": "includes/Skins/MinervaTemplate.php",
 		"SkinMinerva": "includes/Skins/SkinMinerva.php",
-		"SkinMinervaNeue": "includes/Skins/SkinMinerva.php"
+		"SkinMinervaDark": "includes/Skins/SkinMinerva.php"
 	},
 	"ConfigRegistry": {
 		"minerva": "GlobalVarConfig::newInstance"
@@ -153,13 +153,13 @@
 		]
 	},
 	"MessagesDirs": {
-		"MinervaNeue": [
+		"MinervaDark": [
 			"i18n"
 		]
 	},
 	"ResourceFileModulePaths": {
 		"localBasePath": "",
-		"remoteSkinPath": "MinervaNeue"
+		"remoteSkinPath": "MinervaDark"
 	},
 	"ResourceModuleSkinStyles": {
 		"minerva": {
@@ -594,7 +594,7 @@
 	},
 	"QUnitTestModule": {
 		"localBasePath": "",
-		"remoteSkinPath": "MinervaNeue",
+		"remoteSkinPath": "MinervaDark",
 		"dependencies": [
 			"mobile.startup",
 			"mediawiki.user",

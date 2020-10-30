@@ -1,6 +1,6 @@
 # Configuration file for Doxygen
 
-PROJECT_NAME           = MinervaNeue
+PROJECT_NAME           = MinervaDark
 PROJECT_BRIEF          = A responsive mobile first skin
 
 OUTPUT_DIRECTORY       = docs
